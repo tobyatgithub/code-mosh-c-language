@@ -1,0 +1,21 @@
+# ninja log v5
+0	585	1665048367469832683	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+586	637	1665048367524102711	HelloWorld	fff57280a8cd39fb
+9	597	1665048622981298729	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+597	645	1665048623032465668	HelloWorld	fff57280a8cd39fb
+2	500	1665048772026871378	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+500	556	1665048772085482813	HelloWorld	fff57280a8cd39fb
+1	622	1665049179521264288	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+622	672	1665049179575277708	HelloWorld	fff57280a8cd39fb
+2	535	1665049300938364779	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+535	591	1665049300997228881	HelloWorld	fff57280a8cd39fb
+1	591	1665049348695158586	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+592	644	1665049348752834443	HelloWorld	fff57280a8cd39fb
+1	532	1665049397610286511	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+532	589	1665049397670317857	HelloWorld	fff57280a8cd39fb
+9	528	1665049623233329903	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+529	576	1665049623284360957	HelloWorld	fff57280a8cd39fb
+1	494	1665049723698285133	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+495	543	1665049723750171184	HelloWorld	fff57280a8cd39fb
+1	689	1665050001824340111	CMakeFiles/HelloWorld.dir/main.cpp.o	8f1adb336cbac0d0
+689	737	1665050001876135578	HelloWorld	fff57280a8cd39fb
